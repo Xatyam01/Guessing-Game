@@ -47,3 +47,10 @@ Also included is a Python console version of the same guessing game.
 2. Run the Python script from your terminal or command prompt:
    ```bash
    python guessing_game.py
+## 📸 Screenshots
+
+### 🖼️ Game Interface
+![Game Screenshot](images/screenshot.png)
+
+### 🎉 Winning Moment
+![Confetti and Sound](images/win-screen.png)
