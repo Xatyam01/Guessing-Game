@@ -1,0 +1,12 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore audio or large media files (optional)
+win.mp3
+
+# Ignore environment/config files (if any added later)
+.env
