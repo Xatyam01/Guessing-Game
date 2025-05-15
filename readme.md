@@ -1,11 +1,11 @@
-# Number Guessing Game
+# 🎮 Number Guessing Game
 
 A simple interactive number guessing game built as a web app using HTML, CSS, and JavaScript — with animations and sound effects!  
 Also included is a Python console version of the same guessing game.
 
 ---
 
-## Features
+## 🚀 Features
 
 - User inputs **lower** and **upper bounds** to define the guessing range.
 - Random number generated between bounds.
@@ -22,7 +22,7 @@ Also included is a Python console version of the same guessing game.
 
 ---
 
-## File Overview
+## 📄 File Overview
 
 | File          | Description                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------- |
@@ -34,15 +34,15 @@ Also included is a Python console version of the same guessing game.
 
 ---
 
-## How to Run
+## 🧑‍💻 How to Run
 
-### Web App
+### 🎯 Web App
 1. Open `index.html` in any modern web browser.
 2. Enter lower and upper bounds, then click **Start Game**.
 3. Enter your guesses and click **Guess**.
 4. Follow the hints until you win or run out of attempts.
 
-### Python Version
+### 🎯Python Version
 1. Make sure you have Python installed (Python 3 recommended).
 2. Run the Python script from your terminal or command prompt:
    ```bash
